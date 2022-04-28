@@ -1,11 +1,8 @@
-# Welcome to our library program
+# library system console application
 
+this task is a practice on Object oriented programming using java
 
-## Ahmed Hatem Farouk sec  1 bn 5  seat no =51005 
-
-## Abdelrahamn Khaed Ismaiel sec 1 bn 53    seat no=51053
-
-
+## how to use
 first you will need to insert the capacity of the library.
 in this program you will be able to do so many features.
 first : enter your name ....and thus you will be the first user in the library.
