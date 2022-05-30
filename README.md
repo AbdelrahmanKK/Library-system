@@ -1,6 +1,6 @@
 # library system console application
 
-this task is a practice on Object oriented programming using java
+this Project is a practice on Object oriented programming using java
 
 ## how to use
 first you will need to insert the capacity of the library.
